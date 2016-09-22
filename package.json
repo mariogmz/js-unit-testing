@@ -1,0 +1,16 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "Examples to do unit testing for javascript using common js practices",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test/app-test.js"
+  },
+  "keywords": [
+    "javascript",
+    "mocha",
+    "unit-testing"
+  ],
+  "author": "Mario Gomez",
+  "license": "ISC"
+}
